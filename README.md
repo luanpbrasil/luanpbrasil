@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Data Science
-- 🌱 I’m currently learning Statistical Tests
+- 🌱 I’m currently learning Kafka
 - 😄 Pronouns: he/him
 
 <div align="center">
