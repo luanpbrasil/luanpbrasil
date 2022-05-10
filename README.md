@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Data Science
+- 🔭 I’m currently working as a Data Scientist @ JCPM Group
 - 🌱 I’m currently learning Statistical Tests
 - 😄 Pronouns: he/him
 
