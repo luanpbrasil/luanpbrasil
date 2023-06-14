@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Scientist
-- 🌱 I’m currently learning Statistical Tests
-- 😄 Pronouns: he/him
+- 🌱 I’m currently developing [this data science project](https://github.com/luanpbrasil/alura-voz)
 
 <div align="center">
   <a href="https://github.com/luanpbrasil">
