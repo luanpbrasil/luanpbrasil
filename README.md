@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Scientist
-- 🌱 I’m currently developing [this data science project](https://github.com/luanpbrasil/alura-voz)
+- 🌱 I’m currently developing [a churn prediction project](https://github.com/luanpbrasil/alura-voz)
 
 <div align="center">
   <a href="https://github.com/luanpbrasil">
