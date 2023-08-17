@@ -30,7 +30,7 @@
   <a href = "mailto:luanbrasil@alu.ufc.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:luanbrasil99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/luanpbrasil/luanpbrasil/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/luanpbrasil/luanpbrasil/blob/output/github-contribution-grid-snake.svg)-->
 </div>
   
 <!--
