@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luan-GCP" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+  <img align="center" alt="Luan-GCP" height="30" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
   <img align="center" alt="Luan-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
   <img align="center" alt="Luan-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Luan-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
