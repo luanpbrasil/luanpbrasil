@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📊 I’m currently working as a Data Scientist
+- 📊 I’m currently working as a Senior Data Scientist
 - 🔭 Check out this [churn prediction project](https://github.com/luanpbrasil/alura-voz)
 
 <div align="center">
