@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📊 I’m currently working as a Senior Data Scientist
+- 📊 I’m currently the Founding Data Scientist at [alphalit.ai](https://www.alphalit.ai/)
 - 🔭 Check out this [Financial Advisor Chatbot](https://github.com/luanpbrasil/financial-advisor-chatbot) using LLMs with Python, Langchain, OpenAI and Streamlit.
 
 <div align="center">
