@@ -10,7 +10,7 @@ Building AI systems that actually make it to production and drive business impac
 ### 🚀 About Me
 
 - 🔭 Founding Data Scientist at **alphalit.ai**
-- 🧠 6+ years building **ML, AI, and data products**
+- 🧠 8 years building **ML, AI, and data products**
 - 🤖 Focused on **LLMs, AI Agents, Machine Learning and Data Pipelines**
 - ⚙️ Strong experience in **end-to-end systems**: from modeling → deployment → monitoring
 - 📈 Passionate about **turning messy data into scalable products**
